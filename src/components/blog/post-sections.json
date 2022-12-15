@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_blog_post_sections",
+  "info": {
+    "displayName": "PostSections",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "tags": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::tag.tag"
+    },
+    "SelectionHeading": {
+      "type": "string"
+    }
+  }
+}
