@@ -26,8 +26,8 @@ module.exports = ({ env }) => ({
           sites: [
             {
               name: 'strapibackend',
-              id: "14bad8ee-daeb-4514-8111-95c1de0b34f4",
-              buildHook: "https://api.netlify.com/build_hooks/639aea454c878d5cae5d1dd0",
+              id: "2104fd16-75da-4890-ab9e-07919eacf0ea",
+              buildHook: "https://api.netlify.com/build_hooks/639aefb42fbcf05e110ec149",
               branch: 'master' // optional
             }
           ]
