@@ -1,0 +1,3 @@
+[build]
+  command = "strapi build"
+  publish = "build"
